@@ -1,0 +1,1 @@
+This is normal working directory file, that convert into git repository using "git init" command.
